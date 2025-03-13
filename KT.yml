@@ -1,6 +1,10 @@
 team: KT
 
+<<<<<<< HEAD
 manager: 김선욱
+=======
+manager: 조성욱
+>>>>>>> conflict
 
 members:
 - 고영표
